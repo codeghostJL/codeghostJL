@@ -1,5 +1,5 @@
 👋 Olá! Sou João Lucas, estudante de Análise e Desenvolvimento de Sistemas e Inteligência Artificial Aplicada. Apaixonado por tecnologia, busco constantemente aprender e aplicar novos conhecimentos.
-<br>
+<br><br>
 💻 O que eu faço?<br>
 ✔️ Desenvolvimento de bots para automação <br>
 ✔️ Programação em Python, PHP e desenvolvimento web <br>
